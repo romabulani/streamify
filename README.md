@@ -2,7 +2,7 @@
 <div align="center">
   <img src="/public/streamify.png" height="100" width="100" alt="logo"/>
   <h1>Streamify</h1>
-  <a href="https://streamify.netlify.app/">Streamify Dashboard for Analytics</a>
+  <a href="https://streamify-analytics.netlify.app/">Streamify Dashboard for Analytics</a>
 </div>
 
 ## About
@@ -38,5 +38,5 @@ $ npm start
 - Recharts Library for charts
 
 ## Live Link
-[Streamify](https://streamify.netlify.app/)
+[Streamify](https://streamify-analytics.netlify.app/)
 
