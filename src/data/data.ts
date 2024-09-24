@@ -1,0 +1,178 @@
+export const keyMetrics = {
+  totalUsers: {value: 120450, change: 11},
+  activeUsers: {value: 56000, change: -5},
+  totalStreams: {value: 2580000, change: 10},
+  revenue: {value: 1200000, change: 10},
+  topArtist: "The Weeknd",
+};
+
+export const userGrowth = [
+  { month: "2023-10", totalUsers: 80000, activeUsers: 12000 },
+  { month: "2023-11", totalUsers: 85000, activeUsers: 12500 },
+  { month: "2023-12", totalUsers: 90000, activeUsers: 12900 },
+  { month: "2024-01", totalUsers: 95000, activeUsers: 15000 },
+  { month: "2024-02", totalUsers: 100000, activeUsers: 18500 },
+  { month: "2024-03", totalUsers: 105000, activeUsers: 20000 },
+  { month: "2024-04", totalUsers: 110000, activeUsers: 22500 },
+  { month: "2024-05", totalUsers: 112000, activeUsers: 28500 },
+  { month: "2024-06", totalUsers: 112500, activeUsers: 29500 },
+  { month: "2024-07", totalUsers: 112800, activeUsers: 23500 },
+  { month: "2024-08", totalUsers: 126800, activeUsers: 30000 },
+  { month: "2024-09", totalUsers: 129800, activeUsers: 31000 },
+];
+
+export const revenueSources = [
+  { name: "Subscriptions", value: 800000, change: 30 },
+  { name: "Advertisements", value: 400000, change: -5 },
+];
+
+export const topSongs = [
+  { songName: "Blinding Lights", artist: "The Weeknd", streams: 180000 },
+  { songName: "Levitating", artist: "Dua Lipa", streams: 160000 },
+  { songName: "Peaches", artist: "Justin Bieber", streams: 150000 },
+  { songName: "Stay", artist: "The Kid LAROI", streams: 140000 },
+  { songName: "Save Your Tears", artist: "The Weeknd", streams: 130000 },
+];
+
+export const recentStreams = [
+  {
+    songName: "Blinding Lights",
+    artist: "The Weeknd",
+    dateStreamed: "2024-09-21",
+    streamCount: 2500000,
+    userId: "weeknd",
+  },
+  {
+    songName: "Levitating",
+    artist: "Dua Lipa",
+    dateStreamed: "2024-09-21",
+    streamCount: 1800000,
+    userId: "dualipa",
+  },
+  {
+    songName: "Peaches",
+    artist: "Justin Bieber",
+    dateStreamed: "2024-09-20",
+    streamCount: 3200000,
+    userId: "justinbieber",
+  },
+  {
+    songName: "Stay",
+    artist: "The Kid LAROI",
+    dateStreamed: "2024-09-20",
+    streamCount: 4100000,
+    userId: "laroi",
+  },
+  {
+    songName: "Save Your Tears",
+    artist: "The Weeknd",
+    dateStreamed: "2024-09-19",
+    streamCount: 1600000,
+    userId: "weeknd",
+  },
+  {
+    songName: "Blinding Lights",
+    artist: "The Weeknd",
+    dateStreamed: "2024-09-19",
+    streamCount: 2900000,
+    userId: "weeknd",
+  },
+  {
+    songName: "Levitating",
+    artist: "Dua Lipa",
+    dateStreamed: "2024-09-18",
+    streamCount: 1450000,
+    userId: "dualipa",
+  },
+  {
+    songName: "Peaches",
+    artist: "Justin Bieber",
+    dateStreamed: "2024-09-17",
+    streamCount: 3500000,
+    userId: "justinbieber",
+  },
+  {
+    songName: "Stay",
+    artist: "The Kid LAROI",
+    dateStreamed: "2024-09-17",
+    streamCount: 3900000,
+    userId: "laroi",
+  },
+  {
+    songName: "Save Your Tears",
+    artist: "The Weeknd",
+    dateStreamed: "2024-09-16",
+    streamCount: 2200000,
+    userId: "weeknd",
+  },
+  {
+    songName: "Blinding Lights",
+    artist: "The Weeknd",
+    dateStreamed: "2024-09-16",
+    streamCount: 3100000,
+    userId: "weeknd",
+  },
+  {
+    songName: "Levitating",
+    artist: "Dua Lipa",
+    dateStreamed: "2024-09-15",
+    streamCount: 2000000,
+    userId: "dualipa",
+  },
+  {
+    songName: "Peaches",
+    artist: "Justin Bieber",
+    dateStreamed: "2024-09-15",
+    streamCount: 3800000,
+    userId: "justinbieber",
+  },
+  {
+    songName: "Stay",
+    artist: "The Kid LAROI",
+    dateStreamed: "2024-09-14",
+    streamCount: 3700000,
+    userId: "laroi",
+  },
+  {
+    songName: "Save Your Tears",
+    artist: "The Weeknd",
+    dateStreamed: "2024-09-14",
+    streamCount: 2500000,
+    userId: "weeknd",
+  },
+  {
+    songName: "Blinding Lights",
+    artist: "The Weeknd",
+    dateStreamed: "2024-09-13",
+    streamCount: 4300000,
+    userId: "weeknd",
+  },
+  {
+    songName: "Levitating",
+    artist: "Dua Lipa",
+    dateStreamed: "2024-09-13",
+    streamCount: 1950000,
+    userId: "dualipa",
+  },
+  {
+    songName: "Peaches",
+    artist: "Justin Bieber",
+    dateStreamed: "2024-09-12",
+    streamCount: 3900000,
+    userId: "justinbieber",
+  },
+  {
+    songName: "Stay",
+    artist: "The Kid LAROI",
+    dateStreamed: "2024-09-12",
+    streamCount: 4000000,
+    userId: "laroi",
+  },
+  {
+    songName: "Save Your Tears",
+    artist: "The Weeknd",
+    dateStreamed: "2024-09-11",
+    streamCount: 2700000,
+    userId: "weeknd",
+  },
+];
